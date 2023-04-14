@@ -1,0 +1,18 @@
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\bin\Debug\_62.ORN.Sayisal_Loto.exe.config
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\bin\Debug\_62.ORN.Sayisal_Loto.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\bin\Debug\_62.ORN.Sayisal_Loto.pdb
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\62. ORN. Sayisal Loto.csprojResolveAssemblyReference.cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.Form1.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.Properties.Resources.resources
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\62. ORN. Sayisal Loto.csproj.GenerateResource.Cache
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.exe
+C:\Users\w10\OneDrive\Masaüstü\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\bin\Debug\_62.ORN.Sayisal_Loto.exe.config
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\bin\Debug\_62.ORN.Sayisal_Loto.exe
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\bin\Debug\_62.ORN.Sayisal_Loto.pdb
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\62. ORN. Sayisal Loto.csprojResolveAssemblyReference.cache
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.Form1.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\_62.ORN.Sayisal_Loto.Properties.Resources.resources
+C:\Users\TOSHIBA\Desktop\SOFTWARE\Software Projects\Visual Studio (C# Form) Denemeleri\62. ORN. Sayisal Loto\62. ORN. Sayisal Loto\obj\Debug\62. ORN. Sayisal Loto.csproj.GenerateResource.Cache
